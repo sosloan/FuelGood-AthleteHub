@@ -1,0 +1,6 @@
+{
+  "name": "athletehub-discord-bot",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
